@@ -10,8 +10,11 @@ const mouseImg = new Image();
 const rattrapImg = new Image();
 
 
-mouseImg.src = 'http://peps-deratisation.com/images/icon_27457-300x300.png';
-rattrapImg.src = 'http://i0.hdslb.com/bfs/archive/b1a3cf16937a21eefb6189f5df474201f86ff678.jpg';
+// mouseImg.src = 'http://peps-deratisation.com/images/icon_27457-300x300.png';
+// rattrapImg.src = 'http://i0.hdslb.com/bfs/archive/b1a3cf16937a21eefb6189f5df474201f86ff678.jpg';
+mouseImg.src = 'https://img2.baidu.com/it/u=1362865500,2543773888&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=530';
+rattrapImg.src = 'https://img2.baidu.com/it/u=3915870920,4177932845&fm=253&fmt=auto&app=138&f=JPEG?w=204&h=168';
+
 
 const up = 38, down = 40, left = 37, right = 39;
 const pressedKeys = {};
